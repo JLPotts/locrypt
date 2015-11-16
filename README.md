@@ -51,7 +51,7 @@ Available Encodings
  * binary
  * hex
 
-Available Cipher Algoritms
+Available Cipher Algorithms
 ---
 * CAST-cbc
 * aes-128-cbc
